@@ -1,0 +1,33 @@
+#TabsToolbar hbox.titlebar-spacer {
+    display: none;
+  }
+
+#urlbar .urlbar-input-box {
+  flex: 1;
+  outline: none !important;
+  }
+
+#urlbar .urlbar-input.textbox-input {
+    width: 100%;
+  }
+  
+  #urlbar:hover {
+    background: rgba(0,0,0,.1) !important;
+  }
+  
+  #urlbar:not(.hidden-focus)[focused="true"], .searchbar-textbox[focused="true"] {
+    box-shadow: none !important;
+  }
+  
+  #urlbar {
+    background: transparent !important;
+    border: none !important;
+  }
+
+  #back-button{
+    display: none;
+  }
+
+  #forward-button{
+    display: none;
+  }
