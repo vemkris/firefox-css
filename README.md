@@ -1,4 +1,3 @@
-# hello-world
-This is my first GitHub repository
+# Firefox chrome
 
-My name is Gautham Vemulapalli.  I am a gentle soul.
+My custom CSS for firefox.
